@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('img/ingles.jpg'), no-repeat cover;
     }
 
     .cartao {
