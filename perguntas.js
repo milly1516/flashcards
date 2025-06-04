@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    '"girias do iglês',
+    '"girias do inglês',
     'O que significa a expressão "break the ice"?',
     'Break the ice" significa iniciar uma conversa ou atividade para aliviar a tensão ou desconforto em uma situação social, geralmente em um encontro ou reunião.'
 )
